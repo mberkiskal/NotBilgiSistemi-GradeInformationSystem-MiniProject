@@ -1,0 +1,13 @@
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\bin\Debug\p1OkulSistemi.exe.config
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\bin\Debug\p1OkulSistemi.exe
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\bin\Debug\p1OkulSistemi.pdb
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.FormGiris.resources
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.FormOgrenciDetay.resources
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.FormOgretmenDetay.resources
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.Properties.Resources.resources
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.exe
+C:\Users\mberk\source\repos\p1OkulSistemi\p1OkulSistemi\obj\Debug\p1OkulSistemi.pdb
